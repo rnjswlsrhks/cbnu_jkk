@@ -8,7 +8,7 @@
 
 ## Contacts
 
-- 이메일 : [ind-AI:mail](mailto:indai.cbnu.ac.kr)
+- 이메일 : [jkk@zeosis.com](mailto:jkk@zeosis.com)
 - **학과홈페이지** : [ind-AI](https://github.com/industrial-AI)
 
 ## Educational Course
