@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\user\source\repos\openCV_default1\x64\Debug\openCV_default1.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\user\Downloads\exercise(1)\box.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\Downloads\exercise(1)\box_in_scene.png</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\user\Downloads\exercise(1)\building.jpg</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
